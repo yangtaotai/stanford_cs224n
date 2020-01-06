@@ -1,2 +1,2 @@
 # stanford_cs224n
-personal repo for cs224n assignments
+This repo is intended for personal study for stanford online class -- cs224n. It will include assignments/solutions from my study. 
